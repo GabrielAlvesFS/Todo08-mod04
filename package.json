@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "node-sqlite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon ./src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielAlvesFS/Todo08-mod04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielAlvesFS/Todo08-mod04/issues"
+  },
+  "homepage": "https://github.com/GabrielAlvesFS/Todo08-mod04#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
